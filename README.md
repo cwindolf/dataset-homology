@@ -31,4 +31,4 @@ To test and see if everything worked, try
 Usage
 =====
 
-TBD.
+TBD, but the place to look is `scripts/alpha_complex_persistent_homology.py`.
