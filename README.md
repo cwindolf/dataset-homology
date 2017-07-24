@@ -6,7 +6,7 @@ First, download GUDHI, one of the `.tar.gz`s on this page with
 exit `setup.sh` to make sure it knows it's there.
 
 Make sure you follow the steps
-[here][https://lists.gforge.inria.fr/pipermail/gudhi-contact/2017-May/000016.html]
+[here](https://lists.gforge.inria.fr/pipermail/gudhi-contact/2017-May/000016.html)
 which are annoying but necessary (unless the GUDHI people updated the
 library).
 
