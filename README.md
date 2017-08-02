@@ -32,3 +32,25 @@ Usage
 =====
 
 TBD, but the place to look is `scripts/alpha_complex_persistent_homology.py`.
+
+
+References
+==========
+
+ - Math background and survey of software packages: https://arxiv.org/pdf/1506.08903.pdf
+
+ - helpful: http://www.dyinglovegrape.com/math/topology_data_1.php
+ < follows http://www.ams.org/journals/bull/2009-46-02/S0273-0979-09-01249-X/S0273-0979-09-01249-X.pdf
+
+ - a textbook: http://www.math.cornell.edu/~hatcher/AT/AT.pdf
+ - "accessible" textbook, Munkres: http://webmath2.unito.it/paginepersonali/sergio.console/Dispense/Elements%20of%20Algebraic%20Topology%20-%20James%20R.%20Munkres.pdf
+
+ - interesting overview of Rips, and feasible approximation: https://arxiv.org/pdf/1203.6786.pdf
+ < by http://donsheehy.net/
+ < visualized? http://donsheehy.net/cavanna15visualizing.html
+ < nerve of cones: http://donsheehy.net/research/cavanna15geometric.pdf
+
+ - net-trees:
+ < original http://sarielhp.org/p/04/lipschitz/lipschitz.pdf
+ < slides http://sarielhp.org/p/04/lipschitz/lips_slides.pdf
+ < sheehy explains http://donsheehy.net/research/jahanseir15cover.pdf

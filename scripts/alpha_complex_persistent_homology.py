@@ -9,7 +9,7 @@ if len(sys.argv) > 1:
 else:
     ac = AlphaComplex(points=mnist(7))
 print('And simplex tree')
-simplex_tree = alpha_complex.create_simplex_tree(max_alpha_square=200000.0)
+simplex_tree = ac.create_simplex_tree(max_alpha_square=200000.0)
 print(repr(simplex_tree))
 pprint(dir(simplex_tree))
 simplex_tree.get_filtration()
